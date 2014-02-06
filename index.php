@@ -1,5 +1,6 @@
 <?php
 /**
- * This line does not make any sense.
+ * Greeting a user.
  */
-phpinfo();
+$greeting = "username";
+echo "Hello $username";
