@@ -2,5 +2,5 @@
 /**
  * Greeting a user.
  */
-$greeting = "username";
+$greeting = "localuser";
 echo "Hello $username";
